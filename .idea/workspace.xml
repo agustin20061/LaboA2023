@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aebf1cee-af5b-411c-921b-8004b7fe24a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboA2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/complejidad.hecho.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Cafetera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Cancion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Circulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Fecha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Libro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/Rectangulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/unidad0/Dialaboral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/unidad0/Ejercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/unidad0/ejercicio7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/unidad0/reemplazoletra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labo2023/unidad0/vocale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Duenio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Gatos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/NombreAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Pajaritos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Peces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Perros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Animales/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/Bibliotecario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/GeneroLibros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/LibroElectronico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/LimiteDePrestamosAlcanzadoException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/Membresia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/MembresiaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/Prestamo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Biblioteca/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cafeteria/Cafetera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cine/Espectador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cine/Funcion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cine/NombreGenero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cine/Pelicula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cine/Sala.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cine/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Colegio/Alumno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Colegio/Materias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/CPU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Componentes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/DispositivosEntrada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/DispostivosSalida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Impresoras.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Ordenes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Pantalla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Periferico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Tarjeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/Teclado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ComprarCompus/TecnologiaPantalla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/Bebida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/BebidaAzucarada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/BebidaNeutra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/Bebida_alcoholica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/SistemaBebida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ConsumoBebidas/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlAltYPeso/Paciente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlAltYPeso/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlAsistencia/EMpresa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlAsistencia/Empleado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlCalorias/CaloriasPersona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlCalorias/FamliaCalorias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlCalorias/Plato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/ControlCalorias/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cosas/CD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Cosas/Cancion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Deportes/Campeonato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Deportes/Equipo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Deportes/Partidos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/EmpresasAutos/Bicicleta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/EmpresasAutos/Camioneta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/EmpresasAutos/Coche.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/EmpresasAutos/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/EmpresasAutos/listaVehiculos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/FormasGeometricas/Circulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/FormasGeometricas/Figuras_geometricas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/FormasGeometricas/Rectangulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Arquero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/CantAsistencias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Contrato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Defensor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Delantero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Edad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Equipo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/EquipoActual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/EquipoCargado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/GolesConvertidos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/GolesRecibidos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Jugador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/JugoEnEquipo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Mediocampista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Partidos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/PorcentajeAtajada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/GestionDeEquipoFutbol/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Humanos/Autor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Humanos/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Humanos/Jugador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Humanos/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Humanos/Profesor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/Alumno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/Aprobados.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/Examen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/ExamenEscrito.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/ExamenOral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/NivelSatisfacion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/InterfacesColegio/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Libreria/Editoriales.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Libreria/Libro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Barrio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Ciudad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Continente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Coordenadas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Lugar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Pais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Provincia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Lugares/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/PartidosPoliticos/Ave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/PartidosPoliticos/CompaniaTelefonia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/PartidosPoliticos/Dispositivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/PartidosPoliticos/PalomaMensajera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/PartidosPoliticos/TelefonoMovil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/PartidosPoliticos/Trabajador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/Administracion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/Chef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/ChefACargoExc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/EdadExc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/ExperienciaExc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/Plato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/PlatoExistenteExc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/Restaurante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/TipoPlato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Restaurante/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Sensores/Sensor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Sensores/SensorComplejo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Sensores/SensorHumo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Sensores/SensorPresion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Sensores/SensorTemperatura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Sensores/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaDeLLamados/Empleado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaDeLLamados/Llamada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaDeLLamados/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Campera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Colores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Estado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Lectura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Libro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Material.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Pantalon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Prestable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Remera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Revista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/Vestimenta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/SistemaPrestacion/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Tiempo/DiasTrabajo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Tiempo/Fecha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Tiempo/Semana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Tiempo/Turno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Unidad2/Ejercicio1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Unidad2/Ejercicio2_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Unidad2/Ejercicio3_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Unidad6/Ejercicio1_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Unidad6/Nombrenull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Votaciones/NombrePartido.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Votaciones/NombrePropuesta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/Votaciones/NombreProvincia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/buffet/Buffet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/buffet/Pedido.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/buffet/Platos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/Alcoholica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/Azucarada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/Bebedor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/Bebida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/BebidaInexistente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/Neutra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/Sistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/StockInsuficiente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/UsuarioDuplicado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/UsuarioInexistente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/packageMartinBarbieri/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/CargadorPortatil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/Cargadores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/EquiposSonidos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/Multimedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/Productos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/Televisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/tiendaElectronica/Tienda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/Dialaboral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/DivisibleFor_DivisibleWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/Ej1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/Ejercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/NumeroMayot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/PalabrasIguales.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/ejercicio7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/reemplazoletra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LaboA2023/unidad0/vocale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Duenio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Gatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/NombreAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Pajaritos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Peces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Perros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animales/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Bibliotecario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/GeneroLibros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/LibroElectronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/LimiteDePrestamosAlcanzadoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Membresia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/MembresiaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cafeteria/Cafetera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cine/Espectador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cine/Funcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cine/NombreGenero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cine/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cine/Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cine/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colegio/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colegio/Materias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Componentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/DispositivosEntrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/DispostivosSalida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Impresoras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Ordenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Pantalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Periferico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Tarjeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComprarCompus/TecnologiaPantalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/BebidaAzucarada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/BebidaNeutra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/Bebida_alcoholica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/SistemaBebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumoBebidas/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlAltYPeso/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlAltYPeso/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlAsistencia/EMpresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlAsistencia/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlCalorias/CaloriasPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlCalorias/FamliaCalorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlCalorias/Plato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlCalorias/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cosas/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cosas/Cancion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deportes/Campeonato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deportes/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deportes/Partidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpresasAutos/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpresasAutos/Camioneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpresasAutos/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpresasAutos/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpresasAutos/listaVehiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormasGeometricas/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormasGeometricas/Figuras_geometricas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormasGeometricas/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Arquero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/CantAsistencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Defensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Delantero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/EquipoActual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/EquipoCargado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/GolesConvertidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/GolesRecibidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/JugoEnEquipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Mediocampista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Partidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/PorcentajeAtajada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionDeEquipoFutbol/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Humanos/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Humanos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Humanos/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Humanos/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Humanos/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/Aprobados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/Examen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/ExamenEscrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/ExamenOral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/NivelSatisfacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesColegio/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Libreria/Editoriales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Libreria/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Barrio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Ciudad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Continente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Coordenadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Lugar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Provincia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lugares/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/NombrePartido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/NombrePropuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/NombreProvincia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/Partido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/Sistema (1).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PASO/Votante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartidosPoliticos/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartidosPoliticos/CompaniaTelefonia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartidosPoliticos/Dispositivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartidosPoliticos/PalomaMensajera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartidosPoliticos/TelefonoMovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartidosPoliticos/Trabajador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/Administracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/ChefACargoExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/EdadExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/ExperienciaExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/Plato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/PlatoExistenteExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/Restaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/TipoPlato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurante/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sensores/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sensores/SensorComplejo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sensores/SensorHumo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sensores/SensorPresion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sensores/SensorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sensores/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeLLamados/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeLLamados/Llamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeLLamados/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Campera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Colores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Lectura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Pantalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Prestable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Remera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Revista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/Vestimenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaPrestacion/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tiempo/DiasTrabajo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tiempo/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tiempo/Semana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tiempo/Turno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidad2/Ejercicio1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidad2/Ejercicio2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidad2/Ejercicio3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidad6/Ejercicio1_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidad6/Nombrenull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buffet/Buffet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buffet/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buffet/Platos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/Alcoholica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/Azucarada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/Bebedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/BebidaInexistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/Neutra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/StockInsuficiente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/UsuarioDuplicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/UsuarioInexistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageMartinBarbieri/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/CargadorPortatil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/Cargadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/EquiposSonidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/Multimedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/Productos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/Televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiendaElectronica/Tienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/Dialaboral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/DivisibleFor_DivisibleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/NumeroMayot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/PalabrasIguales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/ejercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/reemplazoletra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad0/vocale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="88350e6b-6aef-45af-b009-4ce991588e71" />
+        <option name="url" value="https://github.com/MonoSanchez/LaboA2023.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Buffet.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Equipo.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2NbBnLC8cTygYexB8G5d3e0OwRc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/harrykane/Escritorio/LaboA2023&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.Restaurante.main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesColegio.Main" />
+      <module name="LaboA2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesColegio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Restaurante.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Restaurante.main" />
+      <module name="LaboA2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Restaurante.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaPrestacion.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaPrestacion.main" />
+      <module name="LaboA2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SistemaPrestacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumoBebidas.main" />
+      <module name="LaboA2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConsumoBebidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="packageMartinBarbieri.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packageMartinBarbieri.main" />
+      <module name="LaboA2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packageMartinBarbieri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Restaurante.main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SistemaPrestacion.main" />
+        <item itemvalue="Application.packageMartinBarbieri.main" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aebf1cee-af5b-411c-921b-8004b7fe24a9" name="Changes" comment="" />
+      <created>1679923066768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679923066768</updated>
+      <workItem from="1693221074535" duration="13530000" />
+      <workItem from="1693392832824" duration="6476000" />
+      <workItem from="1693825126931" duration="37000" />
+      <workItem from="1693825416393" duration="10000" />
+      <workItem from="1694000531094" duration="4375000" />
+      <workItem from="1694602212869" duration="7195000" />
+      <workItem from="1695207545097" duration="6728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
